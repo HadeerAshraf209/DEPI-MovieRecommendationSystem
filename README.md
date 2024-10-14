@@ -3,8 +3,8 @@
 This project aims to design and implement a personalized movie recommendation system based on machine learning techniques, leveraging collaborative filtering and data analysis. The system predicts user preferences and recommends movies accordingly.
 
 ## Team Members
-- [@Mariam Mahmoud](https://github.com/username1
-- [@Hanin Hossam](https://github.com/username2
+- [@Mariam Mahmoud](https://github.com/mariam573)
+- [@Hanin Hossam](https://github.com/Haninhossam)
 - [@Hadeer Ashraf](https://github.com/HadeerAshraf209)
 - [@Perihane Tarek](https://github.com/CyPerry)
 
