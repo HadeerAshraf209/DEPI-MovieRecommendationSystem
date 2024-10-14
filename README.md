@@ -6,7 +6,7 @@ This project aims to design and implement a personalized movie recommendation sy
 - [@Mariam Mahmoud](https://github.com/username1
 - [@Hanin Hossam](https://github.com/username2
 - [@Hadeer Ashraf](https://github.com/HadeerAshraf209)
-- [@Perihane Tarek](https://github.com/username3
+- [@Perihane Tarek](https://github.com/CyPerry)
 
 ## Supervised By
 - Eng. Ahmed Essam Azab
