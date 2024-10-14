@@ -9,7 +9,7 @@ This project aims to design and implement a personalized movie recommendation sy
 - [@Perihane Tarek](https://github.com/CyPerry)
 
 ## Supervised By
-- Eng. Ahmed Essam Azab
+- Eng. [@Ahmed Essam Azab](https://github.com/ahmedazab1235)
 
 ## Overview
 The Netflix recommendation system is designed to provide users with personalized movie suggestions based on their viewing history and ratings. By utilizing collaborative filtering, the system enhances user engagement by offering a tailored experience. It integrates Natural Language Processing (NLP), machine learning, and data science to understand user preferences and predict ratings.
