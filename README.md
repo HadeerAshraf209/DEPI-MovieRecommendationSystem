@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation System
+# Movie Recommendation System
 
 This project aims to design and implement a personalized movie recommendation system based on machine learning techniques, leveraging collaborative filtering and data analysis. The system predicts user preferences and recommends movies accordingly.
 
